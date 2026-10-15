@@ -1,0 +1,5 @@
+com\example\smartcampus\service\AuthServiceTest.class
+com\example\smartcampus\service\StudentProfileServiceTest.class
+com\example\smartcampus\controller\AdminControllerTest.class
+com\example\smartcampus\service\JobApplicationServiceTest.class
+com\example\smartcampus\service\CompanyServiceTest.class
